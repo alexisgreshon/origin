@@ -1,5 +1,21 @@
 <?xml version="1.0" encoding="iso-8859-1" standalone="yes"?>
 <K5project version="1.1">
    <types>
+      <type name="EnumType1" kind="ENUM">
+      <enumval value="V0"/>
+      <enumval value="V1"/>
+      </type>
+      <type name="EnumType2" kind="ENUM">
+      <enumval value="V0"/>
+      <enumval value="V1"/>
+      </type>
+      <type name="EnumType3" kind="ENUM">
+      <enumval value="V0"/>
+      <enumval value="V1"/>
+      </type>
+      <type name="EnumType4" kind="ENUM">
+      <enumval value="V0"/>
+      <enumval value="V1"/>
+      </type>
    </types>
 </K5project>
