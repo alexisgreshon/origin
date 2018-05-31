@@ -3,6 +3,8 @@
    <variables>
       <vargroup name="(Global)" kind="GLOBAL">
          <var name="toto" type="BOOL"/>
+         <var name="tata" type="BOOL"/>
+         <var name="gyfgy" type="BOOL"/>
       </vargroup>
       <vargroup name="(Retain)" kind="RETAIN">
       </vargroup>
