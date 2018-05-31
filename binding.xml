@@ -5,6 +5,7 @@
          <bindpublic name="PUBLIC" address="" port="9000">
          </bindpublic>
          <bindextern name="EXTERN:1" address="" port="9000">
+            <binditem id="1" ope="XV" symbol="tata"/>
          </bindextern>
       </binding>
    </networks>
